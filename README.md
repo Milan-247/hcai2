@@ -14,6 +14,7 @@ Mock API: A centralized service (mockApi.ts) that simulates network latency and 
 How AI Mocks are Deterministic
 The triage logic in src/services/mockApi.ts uses keyword matching and rule-based logic to return specific results:
 
+
 Keywords like "chest pain" or "breath" trigger an Emergency triage.
 Keywords like "fever" or "sore throat" trigger a Medium urgency triage.
 Other inputs default to Low urgency.
