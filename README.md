@@ -1,4 +1,3 @@
-HealthCore AI - Hospital Management System
 A minimal, usable web application demonstrating patient registration, appointment scheduling, and AI-assisted triage.
 
 Features
@@ -24,4 +23,4 @@ Performance: Mobile-first design, optimized asset loading, and minimal re-render
 Setup & Run
 npm install
 npm run dev
-Note: This is a prototype using synthetic data only. Not for medical use
+Note: This is a prototype using synthetic data only. Not for medical use.
